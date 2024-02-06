@@ -1,2 +1,2 @@
-# zapfm
-mesh 
+# ZAPFM
+Zone Access Points For Meshtastic 
